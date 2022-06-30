@@ -1,0 +1,49 @@
+* {
+    font-family: 'Indie Flower', cursive;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.dice {
+    text-align: center;
+    display: inline-block;
+    padding-bottom: 30px;
+}
+
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Anton', sans-serif;
+    text-shadow: 5px 0 #232931;
+    font-size: 8rem;
+    color: #e0d726;
+}
+
+p {
+    font-size: 2rem;
+    color: #e0d726;
+}
+
+img {
+    width: 80%;
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+
+#btn {
+    font-size: 25px;
+    color: red;
+    border: 1px solid red;
+}
